@@ -1,0 +1,42 @@
+.s-img-height {
+    max-height: fit-content;
+}
+.s-card-height {
+    max-height: 10px;
+}
+body {
+    height: fit-content;
+}
+.container-main-main {
+    height: fit-content;
+}
+.card > img {
+    height: 100%;
+    width: 100%;
+    border-radius: 20px;
+}
+.card {
+    margin: 10%;
+    border-radius: 20px;
+}
+.h-head {
+    margin-top: 5%;
+}
+.h-head>ul>li {
+    list-style-type: none;
+}
+.btn {
+    margin-top: 5%;
+}
+.s-padd {
+    margin-top: 1000px;
+}
+.pb {
+    margin-top: 75px;
+}
+.s-center {
+    text-align: center;
+    margin: 0 auto;
+    top: 30%;
+    margin-top: 20%;
+}

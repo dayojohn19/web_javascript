@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+.footer {
+    max-width: 100%;
+    display: flex;
+}
+.container-main-main {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.container-main {
+background: linear-gradient(47deg, rgba(255,255,255,1) 0%, rgba(204,204,203,1) 0%, rgba(189,189,188,1) 0%, rgba(183,183,182,1) 0%, rgba(166,167,165,1) 0%, rgba(162,162,161,1) 0%, rgba(168,168,167,1) 0%, rgba(114,115,113,1) 0%, rgba(204,204,203,1) 0%, rgba(207,207,206,1) 0%, rgba(139,139,138,1) 0%, rgba(75,76,74,1) 0%, rgba(118,118,117,1) 0%, rgba(100,101,99,1) 0%, rgba(74,75,73,1) 0%, rgba(77,78,76,1) 0%, rgba(50,51,49,1) 0%, rgba(70,71,69,1) 0%, rgba(64,65,63,1) 10%, rgba(10,11,9,1) 100%);
+font-family: 'Mukta', sans-serif;
+}
+.container-main-1 {
+    padding: 0.01%;
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 5px;
+    text-align: center;
+    background: rgb(10,11,9);
+    background: linear-gradient(90deg, rgba(10,11,9,1) 0%, rgba(66,66,66,1) 71%, rgba(66,66,66,1) 73%, rgba(67,67,67,1) 76%, rgba(70,70,70,1) 79%, rgba(72,72,72,1) 80%, rgba(75,75,75,1) 83%, rgba(78,78,78,1) 88%, rgba(83,83,83,1) 92%, rgba(86,86,86,1) 97%, rgba(92,92,92,1) 100%, rgba(98,98,98,1) 100%, rgba(108,108,108,1) 100%, rgba(114,114,114,1) 100%, rgba(176,176,176,1) 100%, rgba(212,212,212,1) 100%, rgba(255,255,255,1) 100%);
+}
+.container-main-2 {
+    text-align: center;
+}
+.container-sub-2-1 {
+    position: sticky;
+    top: 0;
+    padding: 5px;
+    background: rgb(10,11,9);
+    background: linear-gradient(90deg, rgba(10,11,9,1) 0%, rgba(66,66,66,1) 71%, rgba(66,66,66,1) 73%, rgba(67,67,67,1) 76%, rgba(70,70,70,1) 79%, rgba(72,72,72,1) 80%, rgba(75,75,75,1) 83%, rgba(78,78,78,1) 88%, rgba(83,83,83,1) 92%, rgba(86,86,86,1) 97%, rgba(92,92,92,1) 100%, rgba(98,98,98,1) 100%, rgba(108,108,108,1) 100%, rgba(114,114,114,1) 100%, rgba(176,176,176,1) 100%, rgba(212,212,212,1) 100%, rgba(255,255,255,1) 100%);
+
+    border-bottom: white solid 0.05px;
+    text-align: center;
+    z-index: 3;
+    font-family: 'Roboto Mono', monospace;
+  }
+ 
+.container-sub-2-1>span {
+    padding-left:10%;
+}
+.container-sub-2-1>span>a {
+    text-decoration: none;
+    color: white;
+}
+/* Header */
+
+
+.container-main-4 {
+    text-align: center;
+}
+.sub-5-img {
+    box-shadow: rgb(241, 241, 241) 0px 0px 15px;
+    height: 100px;
+    width: 100px;
+}
+.ins {
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('img.png');
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 50px 25px black inset;
+
+}
